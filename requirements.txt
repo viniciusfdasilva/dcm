@@ -1,0 +1,5 @@
+typer
+rich
+rich_menu
+termcolor
+peewee
